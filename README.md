@@ -47,6 +47,20 @@ intel AX200 WiFi 和蓝牙支持
 睡眠与唤醒正常
 
 ===========================================================================
+
+# 风扇转速调节
+![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/FAN.png)
+
+调整CPU FAN转速 2000以下 噪音会很小
+
+https://github.com/trulyspinach/SMCAMDProcessor
+
+https://github.com/ChefKissInc/RadeonSensor/releases/tag/v1.3.0
+
+===========================================================================
+
+
+
 # 系统相关截图
 
 ![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/1.png)
