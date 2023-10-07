@@ -51,11 +51,11 @@ intel AX200 WiFi 和蓝牙支持
 # 风扇转速调节
 ![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/FAN.png)
 
-调整CPU FAN转速 2000以下 噪音会很小
+调整CPU FAN转速 2000以下 降低噪音
 
-https://github.com/trulyspinach/SMCAMDProcessor
+https://github.com/trulyspinach/SMCAMDProcessor （下载AMD Power Gadget）
 
-https://github.com/ChefKissInc/RadeonSensor/releases/tag/v1.3.0
+https://github.com/ChefKissInc/RadeonSensor （AMD传感器）
 
 ===========================================================================
 
