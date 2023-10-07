@@ -36,6 +36,8 @@ CPU 核心识别正常
 
 USB端口定制
 
+HDMI和Type-c 显示正常，HDMI支持4K120HZ
+
 前置3.5音频正常、HDMI音频支持
 
 I226V 网卡正常
