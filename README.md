@@ -5,7 +5,8 @@
 B站视频教程：
 
 ===========================================================================
-主机配置单
+
+# 主机配置单
 
 主机 ：Minisforum UM480XT
 
@@ -20,13 +21,16 @@ CPU ：R7-4800H 八核心十六线程
 网卡 ：MTK7921 更换位兼容Intel AX200/210
 
 ===========================================================================
-目前支持macOS 系统版本10.15.x----14.0正式版
+# 目前支持macOS 系统版本10.15.x----14.0正式版
 
 引导中已包含对应 macOS 12-14版本的Intel无线网卡驱动
 
-
 ===========================================================================
-MacOS 完美程度
+# BIOS设置
+核显显存 2G/3G
+关闭 Secure Boot
+===========================================================================
+# MacOS 完美程度
 
 CPU 核心识别正常 
 
@@ -45,9 +49,10 @@ intel AX200 WiFi 和蓝牙支持
 
 ![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/1.png)
 ![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/2.png)
+![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/Vega.png)
 ![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/CPU.png)
 ![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/IGPU.png)
-![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/1.png)
-![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/1.png)
-![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/1.png)
-![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/1.png)
+![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/I226.png)
+![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/BT.png)
+![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/WIFI.png)
+![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/audio.png)
