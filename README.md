@@ -45,7 +45,7 @@ intel AX200 WiFi 和蓝牙支持
 睡眠与唤醒正常
 
 ===========================================================================
-系统相关截图
+# 系统相关截图
 
 ![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/1.png)
 ![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/2.png)
