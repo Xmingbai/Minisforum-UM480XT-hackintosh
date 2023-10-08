@@ -1,4 +1,5 @@
 # Minisforum-UM480XT-hackintosh
+![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/Sensei.png)
 
 更新中
 
