@@ -56,7 +56,7 @@ intel AX200 WiFi 和蓝牙支持
 # 风扇转速调节
 ![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/FAN.png)
 
-调整CPU FAN转速至2000 主机就非常静音了
+调整CPU FAN转速至2000 主机就非常安静了
 
 https://github.com/trulyspinach/SMCAMDProcessor （下载AMD Power Gadget）
 
