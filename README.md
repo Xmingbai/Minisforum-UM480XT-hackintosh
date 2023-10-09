@@ -1,7 +1,6 @@
 # Minisforum-UM480XT-hackintosh
 ![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/Sensei.png)
 
-更新中
 
 B站视频教程：https://www.bilibili.com/video/BV1qu4y1W7Bw
 
