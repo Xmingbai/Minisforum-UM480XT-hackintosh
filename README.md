@@ -2,7 +2,7 @@
 ![](https://github.com/Xmingbai/Minisforum-UM480XT-hackintosh/blob/main/Sensei.png)
 
 
-B站视频教程：https://www.bilibili.com/video/BV1qu4y1W7Bw
+B站视频教程：https://www.bilibili.com/video/BV1qu4y1W7Bw （白嫖的三连支持一下吧）
 
 ===========================================================================
 
